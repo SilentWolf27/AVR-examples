@@ -1,0 +1,5 @@
+Debug/
+*.asmproj
+*.componentinfo.xml
+.vs/
+*.atsln
