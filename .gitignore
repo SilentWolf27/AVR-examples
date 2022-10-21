@@ -3,3 +3,4 @@ Debug/
 *.componentinfo.xml
 .vs/
 *.atsln
+*.cproj
